@@ -1,5 +1,5 @@
-"# Aprendizaje-automatico-en-grafos-IA" 
-
+"# Aprendizaje-automatico-en-grafos-IA"
+Inteligencia artificial que trata, a través de un Dataset de organizaciones terrorista, predecir si una organización es islámica o no
 
 Bibliografía
 
